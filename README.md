@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/plus500-app">  
+<a href="https://osx-get-software.github.io/.github/plus500-app">  
 <img src="https://img.shields.io/badge/⬇️_Get_Plus500_on_macOS-blue?style=for-the-badge&logo=apple" alt="Get Plus500 App macOS">  
 </a>  
 
